@@ -1,0 +1,13 @@
+rank_metric=rmse
+epoch=5
+rmse=861.008
+mae=252.848
+silog=3.239
+squared_rel=0.002
+irmse=2.919
+imae=1.217
+mse=822999.773
+absrel=0.014
+lg10=0.006
+delta1=0.997
+t_gpu=13.9854
