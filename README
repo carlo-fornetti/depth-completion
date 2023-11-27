@@ -1,0 +1,12 @@
+@article{ma2018self,
+	title={Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera},
+	author={Ma, Fangchang and Cavalheiro, Guilherme Venturelli and Karaman, Sertac},
+	booktitle={ICRA},
+	year={2019}
+}
+@article{Ma2017SparseToDense,
+	title={Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image},
+	author={Ma, Fangchang and Karaman, Sertac},
+	booktitle={ICRA},
+	year={2018}
+}
